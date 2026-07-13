@@ -1,3 +1,7 @@
+<img width="872" height="597" alt="Dashboard" src="https://github.com/user-attachments/assets/ef71a378-9ac5-47dc-b34c-db8db14d7406" />
+
+
+
 ## 📊 Project Overview
 
 Managing academic timetables involves complex constraints—balancing teacher availability, matching room capacities with class sizes, and ensuring fair workload distribution. The **Smart Timetable Dashboard** serves as a centralized operational tool to monitor, analyze, and simulate these parameters seamlessly.
